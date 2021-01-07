@@ -17,8 +17,8 @@ lang: zh-CN
 title: louwingyi's personal website
 email:
 description: "louwingyi's personal website"
-baseurl: "/louwingyi-final"# the optional subpath of your site, e.g. "/blog"
-url: "https://louwingyi-final.gitee.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl: "/louwingyi-final" # the optional subpath of your site, e.g. "/blog"
+url: "https://louwingyi-final.gitee.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name: "louwingyi"
   twitter:
