@@ -1,6 +1,6 @@
 ---
-layout: about
-title:关于我/个人学习生活小感受
+  layout: about
+  title: 关于我/个人学习生活小感受
 ---
 
 [个人简历](https://louwingyi.gitee.io/resume/)

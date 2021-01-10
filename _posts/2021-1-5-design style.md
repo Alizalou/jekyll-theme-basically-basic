@@ -1,9 +1,9 @@
 ---
  layout: page
  title: 好风格好吸引力成就好设计
- categories:
+ categories :
         -平面设计
- ---
+---
  
  关于平面设计，仅知道设计逻辑是不够的，需要演化出一套**风格**。
  
