@@ -1,6 +1,7 @@
 ---
 title: "关于我"
 layout: about
+image: assets/images/about banner.png
 ---
 
 [个人简历](https://louwingyi.gitee.io/resume/)
