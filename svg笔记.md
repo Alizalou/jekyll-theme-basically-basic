@@ -1,8 +1,8 @@
 ---
 title: SVG笔记
 layout: category
-permalink: /categories/SVG笔记/
-taxonomy: SVG笔记
+permalink: /tags/svg制作/
+taxonomy: svg制作
 ---
 
 分类《SVG笔记》下的文章：
